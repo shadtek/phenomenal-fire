@@ -1,0 +1,23 @@
+{
+  "name": "phenomenal-fire",
+  "version": "1.0.0",
+  "description": "Website for Phenomenal Fire. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadtek/phenomenal-fire.git"
+  },
+  "author": "Spencer Shattuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadtek/phenomenal-fire/issues"
+  },
+  "homepage": "https://github.com/shadtek/phenomenal-fire#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
