@@ -2,10 +2,11 @@
 
 Website for Bryan Blaze
 
-Slider 
+Slider of services
 	Logo top left changes to brand on mobile
 		Email then phone
 	Video
+Services again
 Contact info
 -
 News
