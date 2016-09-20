@@ -2,6 +2,8 @@
 
 Website for Bryan Blaze
 
+Built with http://foundation.zurb.com/sites/docs/kitchen-sink.html#
+
 Slider of services
 	Logo top left changes to brand on mobile
 		Email then phone
